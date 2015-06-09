@@ -77,4 +77,5 @@ li {
   background-image: -o-linear-gradient(top, #8cb4da, #2789e5);
   background-image: linear-gradient(to bottom, #8cb4da, #2789e5);
   text-decoration: none;
+  cursor: pointer;
 }
