@@ -21,6 +21,7 @@
 
 .body-content {
 	font-family: "Courier New", Courier, monospace;
+  margin: 0 auto;
 }
 
 .body-end {
@@ -46,7 +47,7 @@ li {
 .footer-container {
 	margin: 0 auto;
 	text-align: center;
-	width: 40%;
+	width: 60%;
 	height: 40%;
 	padding: 20px;
 }
@@ -63,7 +64,7 @@ li {
   border-radius: 25px;
   font-family: Reenie Beanie;
   color: #ffffff;
-  font-size: 20px;
+  font-size: 17px;
   padding: 10px 10px 10px 10px;
   border: solid #8cb4da 2px;
   text-decoration: none;
