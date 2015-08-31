@@ -1,5 +1,6 @@
 * {box-sizing: border-box;}
- html, body {
+
+html, body {
   height: 100%;
   width: 100%;
   margin: 0 auto;
@@ -87,6 +88,8 @@ li {
   padding: 10px 10px 10px 10px;
   border: solid #8cb4da 2px;
   text-decoration: none;
+  position: absolute;
+  left: 4px;
 }
 
 .btn:hover {
