@@ -23,7 +23,8 @@ html, body {
 	height: 60%;
 	width: 85%;
 	font-family: serif;
-  font-size: 14px;
+  font-size: 16px;
+  line-height: 25px;
   overflow-x:hidden;
   overflow-y:auto;
   position: absolute;
@@ -108,4 +109,3 @@ li {
     font-size: 12px;
   }
 }
-
