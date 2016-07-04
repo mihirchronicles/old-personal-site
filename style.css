@@ -45,7 +45,7 @@ html, body {
 }
 
 .body-title {
-	font-family: 'Reenie Beanie', cursive;
+	font-family: 'Reenie Beanie', Courier, cursive;
 }
 
 .body-content {
@@ -53,7 +53,7 @@ html, body {
 }
 
 .body-end {
-	font-family: 'Reenie Beanie', cursive;
+	font-family: 'Reenie Beanie', Courier, cursive;
 	
 }
 
