@@ -33,6 +33,14 @@ html, body {
   right: 0;
 }
 
+.body-container {
+    -ms-overflow-style: none;  // IE 10+
+    overflow: -moz-scrollbars-none;  // Firefox
+}
+.body-container::-webkit-scrollbar { 
+    display: none;  // Safari and Chrome
+}
+
 .footer-container {
   margin: 0 auto;
   margin-bottom: 30px;
