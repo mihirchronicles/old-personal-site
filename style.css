@@ -63,7 +63,6 @@ html, body {
 
 .body-end {
 	font-family: 'Reenie Beanie', Courier, cursive;
-	
 }
 
 ul li {
@@ -116,5 +115,8 @@ li {
 @media only screen and (max-width: 300px) {
   .body-container {
     font-size: 12px;
+  }
+  .body-end {
+    font-size: 22px;
   }
 }
