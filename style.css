@@ -81,6 +81,11 @@ li {
 	margin: 0 0 0 15px;
 }
 
+ol {
+  list-style-type: square;
+  color: #f44628;
+}
+
 .btn {
   background: #2789e5;
   background-image: -webkit-linear-gradient(top, #2789e5, #2789e5);
