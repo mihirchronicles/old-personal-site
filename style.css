@@ -17,6 +17,10 @@ html, body {
 	padding-top: 25px;
   font-size: 12px;
 }
+.telescope {
+  width: 50px;
+  height: 50px;
+}
 
 .body-container {
 	margin: auto;
