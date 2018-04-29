@@ -148,8 +148,7 @@ img, iframe {
   img, iframe {
     width: 300px;
   } 
-  .telescope {
-    width: 30px;
-    height: 25px;
+  .body-title-home {
+    padding-top: 22px;
   }
 }
