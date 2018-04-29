@@ -64,6 +64,11 @@ html, body {
   right: 0;
 }
 
+.tiny-text {
+  color: #70a2d1;
+  font-size: 12px;
+}
+
 .body-title {
 	font-family: 'Reenie Beanie', Courier, cursive;
 }
@@ -129,19 +134,14 @@ ol {
   cursor: pointer;
 }
 
+img, iframe {
+  width: 50%;
+}
+
 @media only screen and (max-width: 300px) {
   .body-container {
     font-size: 12px;
   }
-}
-
-.tiny-text {
-  color: #70a2d1;
-  font-size: 12px;
-}
-
-img, iframe {
-  width: 50%;
 }
 
 @media only screen and (max-width: 700px) {
@@ -149,6 +149,6 @@ img, iframe {
     width: 300px;
   } 
   .body-title-home {
-    padding-top: 25px;
+    padding-top: 22px;
   }
 }
