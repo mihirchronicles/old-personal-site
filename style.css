@@ -103,6 +103,11 @@ ol {
   color: #f44628;
 }
 
+.year {
+  text-decoration: underline;
+  font-weight: bold;
+}
+
 .btn {
   background: #2789e5;
   background-image: -webkit-linear-gradient(top, #2789e5, #2789e5);
