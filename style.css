@@ -18,9 +18,12 @@ html, body {
   font-size: 12px;
 }
 
+.header-container li a {
+  text-decoration: underline;
+}
+
 .flash {
   animation: 1s flash infinite;
-  text-decoration: underline;
 }
 
 @keyframes flash {
