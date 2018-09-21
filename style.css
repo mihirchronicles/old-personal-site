@@ -20,6 +20,7 @@ html, body {
 
 .flash {
   animation: 1s flash infinite;
+  text-decoration: underline;
 }
 
 @keyframes flash {
