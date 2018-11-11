@@ -22,7 +22,7 @@ html, body {
   text-decoration: underline;
 }
 
-.flash {
+/* .flash {
   animation: 1s flash infinite;
 }
 
@@ -36,7 +36,7 @@ html, body {
   100% {
     text-shadow: 0px 0px 5px #cacacc;
   }
-}
+} */
 
 .telescope {
   width: 38px;
