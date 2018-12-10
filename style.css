@@ -125,8 +125,9 @@ ol {
 }
 
 .year {
-  text-decoration: underline;
   font-weight: bold;
+  font-family: 'Reenie Beanie', Arial, Helvetica, sans-serif, cursive;
+  font-size: 25px;
 }
 
 .btn {
